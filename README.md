@@ -4,7 +4,14 @@ I'm **Nivedha Senthilkumar** - B.Tech student specializing in **AI & ML**
 
 I don't just study AI. I build with it.
 
-My work spans **Machine Learning · Deep Learning · NLP · LLMs · Computer Vision · Generative AI**
+## Me Core❤️
+
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-blueviolet)
+![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-green)
+![LLM](https://img.shields.io/badge/LLM-Large%20Language%20Models-orange)
+![Transformers](https://img.shields.io/badge/Transformers-HuggingFace-yellow?logo=huggingface)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT-black?logo=openai)
+![LangChain](https://img.shields.io/badge/LangChain-Agent%20Framework-00A67E)
 
 I thrive at the intersection of curiosity and execution — whether that's experimenting with new architectures, contributing to open-source, or building impactful products.
 
